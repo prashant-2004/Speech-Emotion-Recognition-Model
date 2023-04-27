@@ -1,0 +1,4 @@
+pip install librose --user
+pip install numpy --user
+pip install glob --user
+pip install scikit-learn --user
