@@ -15,7 +15,7 @@ ALGORITHMS USED--
     
     
     
-To run this model, you need to be installed with python and its path setup with cmd I had attached the requirements.txt files which contains all libraries need to be install to run the model successfully. You have to go to this "Loan-Prediction-Model-Using-Python" folder on cmd if you are downloading zip file. then, type cmd " pip install requirements.txt " - This will install all libraries into the Python, If you are using Pycharm, then, you have to install the libraries manually from 'file->settings' menu in pycharm which I am specifying below.
+To run this model, you need to be installed with python and its path setup with cmd I had attached the requirements.txt files which contains all libraries need to be install to run the model successfully. You have to go to this "Speech-Emotion-Recognition-Model" folder on cmd if you are downloading zip file. then, type cmd " pip install requirements.txt " - This will install all libraries into the Python, If you are using Pycharm, then, you have to install the libraries manually from 'file->settings' menu in pycharm which I am specifying below.
 
 Main Thing is the dataset, which I was provided in this repo
 
